@@ -1,0 +1,29 @@
+@import url("./nav.css");
+@import url("./folha-cha.css");
+@import url("./teaofthemonth.css");
+@import url("./locations.css");
+@import url("./footer.css");
+
+*{
+    font-family: Helvetica, sans-serif;
+    font-size: 22px;
+    color: seashell;
+}
+
+body{
+    background-color: black;
+    opacity: 0.9;
+    height: 200vh;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+
+.copy{
+    margin-left: 20px;
+}

@@ -1,0 +1,27 @@
+nav {
+    border-bottom: 1px gray solid;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    height: 69px;
+    width: 100%;
+    background-color: black;
+    z-index: 10;
+}
+
+.logo {
+        height: 50px;
+        width: auto;
+        margin-top: 10px;
+        margin-left: 10px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    text-decoration: underline;
+    margin-right: 10px;
+}

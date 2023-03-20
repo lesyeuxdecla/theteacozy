@@ -1,0 +1,20 @@
+.folha-cha {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title {
+    height: 700px;
+    width: 1200px;
+    z-index: -1;
+    position: relative;
+    margin: auto;
+}
+
+.header {
+    background-color: black;
+    position: absolute;
+    text-align: center;
+    width: 1200px;
+}

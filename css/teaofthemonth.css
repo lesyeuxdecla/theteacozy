@@ -1,0 +1,26 @@
+.tea2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    gap: 25px;
+    }
+
+
+.tea img {
+    text-align: center;
+    width: 300px;
+    height: 200px;
+}
+
+.teaofthemonth {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 1000px;
+}
+
+.title__tea{
+    gap: 10px;
+}
+
+
